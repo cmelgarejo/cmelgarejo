@@ -9,3 +9,8 @@
     If your project needs a hand, dont hesitate and ping me, I'll be glad to help 💪
   </div>
 </div>  
+
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
