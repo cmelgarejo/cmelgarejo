@@ -13,3 +13,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com//cmelgarejo/nodejs-gql-server/pull/1) in [cmelgarejo/nodejs-gql-server](https://github.com//cmelgarejo/nodejs-gql-server)
+2. 🎉 Merged PR [#1](https://github.com//cmelgarejo/nestjs-gql-server/pull/1) in [cmelgarejo/nestjs-gql-server](https://github.com//cmelgarejo/nestjs-gql-server)
+3. 🎉 Merged PR [#2](https://github.com//cmelgarejo/nestjs-gql-server/pull/2) in [cmelgarejo/nestjs-gql-server](https://github.com//cmelgarejo/nestjs-gql-server)
+<!--END_SECTION:activity-->
