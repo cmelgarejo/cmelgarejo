@@ -4,7 +4,7 @@
     <img src="https://avatars3.githubusercontent.com/u/2163649?s=400&u=13119a794e394b32643e8baae5dd2f0d39d93738&v=4"  width="120" height="120">
   </div>
   <div>
-    Currently working on {project} 😜 learning all the cool stuff I can.
+    Currently working on `${currentProject}` learning all the cool stuff I can.
     <br/>
     If your project needs a hand, dont hesitate and ping me, I'll be glad to help 💪
   </div>
@@ -13,7 +13,4 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/jonataslaw/get_server/issues/3) in [jonataslaw/get_server](https://github.com/jonataslaw/get_server)
-2. 🎉 Merged PR [#1](https://github.com/cmelgarejo/nodejs-gql-server/pull/1) in [cmelgarejo/nodejs-gql-server](https://github.com/cmelgarejo/nodejs-gql-server)
-3. 🎉 Merged PR [#1](https://github.com/cmelgarejo/nestjs-gql-server/pull/1) in [cmelgarejo/nestjs-gql-server](https://github.com/cmelgarejo/nestjs-gql-server)
 <!--END_SECTION:activity-->
