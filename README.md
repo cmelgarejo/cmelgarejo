@@ -2,7 +2,7 @@
 
 ### Woof! there 👋, this is [cmelgarejo](https://cmelgarejo.dev)
 
-Currently working on `{currentProject} ;)` learning all the cool stuff I can.
+Currently working on `{currentProject}` ;) learning all the cool stuff I can.
 
 If your project needs a hand, dont hesitate and ping me, I'll be glad to help 💪
 
